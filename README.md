@@ -1,7 +1,7 @@
 # Silent Coder - Personal Portfolio Website
-# Light Mode
+## Light Mode
 ![Portfolio Light Mode](light.png)
-# Dark Mode
+## Dark Mode
 ![Portfolio Dark Mode](dark.png)
 
 This is a personal portfolio website for showcasing web development skills and projects. The website is designed to be a professional and clean representation of a web developer's skills, services, and portfolio.
